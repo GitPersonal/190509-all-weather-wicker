@@ -1,0 +1,15 @@
+All Weather Wicker Editorial (redesign)
+
+Please take a moment to review the following links set to go live 05/09 (Thursday):
+
+To view mobile, resize the browser in responsive mode or change device=desktop to device=mobile.
+The IC card (cog tile) will need to be on hold until the customer comments test is done running.
+
+All Weather Wicker editorial / pinterest banner:
+https://preprod.pier1.com/all-weather-wicker?__siteDate=201905092200&device=desktop
+
+Inspiration Tile (4th position):
+https://preprod.pier1.com/be-inspired?customFilter=product-stories&__siteDate=201905092200&device=desktop
+
+PDP Card:
+Asset is named pdp-card-all-weather-wicker
